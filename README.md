@@ -80,9 +80,7 @@ The **Know Your Government** app helps users identify and interact with their po
 - **Google Civic Information API**: For providing the data on political representatives.
 - **Picasso Library**: For handling image loading and caching.
 
-## 📷 Screenshots
 
-- *Screenshots of Main Activity, Official Activity, Photo Detail Activity, and About Activity can be added here.*
 
 Thank you for using the **Know Your Government** app! Feel free to contribute to this project or report any issues.
 
