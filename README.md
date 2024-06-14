@@ -75,10 +75,6 @@ The **Know Your Government** app helps users identify and interact with their po
 4. **About Section**:
    - Access the About section from the menu to view application details.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🌟 Acknowledgements
 
 - **Google Civic Information API**: For providing the data on political representatives.
